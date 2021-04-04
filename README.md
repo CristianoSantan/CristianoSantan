@@ -1,13 +1,5 @@
-### Hi there 👋
-
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSantan&hide=html&layout=compact&theme=buefy" /></td>
-<!--         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=CristianoSantan&theme=buefy"/></td> -->
-    </tr>   
-</table>
-</center> 
+### Olá! Bem vindo ! Eu sou o Cristiano 👋
+---------------------------------------
 
 ![React](https://img.shields.io/badge/-React-%23F7DF1C?style=flat-square&logo=react&logoColor=ffffff&labelColor=blue&color=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -19,6 +11,20 @@
 ![MySql](https://img.shields.io/badge/-mysql-%23F7DF1C?style=flat-square&logo=mysql&logoColor=00008b&labelColor=%00008b&color=%00008b)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+### Entre em contato comigo:
+LinkedIn(https://www.linkedin.com/in/cristiano-souza-santana-b3011a119/)
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSantan&hide=html&layout=compact&theme=buefy" /></td>
+<!--         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=CristianoSantan&theme=buefy"/></td> -->
+    </tr>   
+</table>
+</center> 
+
+
 
 <!-- 
 - 🌱 I’m currently learning
