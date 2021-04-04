@@ -13,7 +13,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ### Entre em contato comigo:
-LinkedIn(https://www.linkedin.com/in/cristiano-souza-santana-b3011a119/)
+<a href="https://www.linkedin.com/in/cristiano-souza-santana-b3011a119/">LinkedIn</a>
 
 <center>
 <table>
