@@ -1,6 +1,6 @@
 ### Olá! Bem vindo ! Eu sou o Cristiano 👋
 ---------------------------------------
-###✅ Conhecimento em:
+### ✅ Conhecimento em
 ![React](https://img.shields.io/badge/-React-%23F7DF1C?style=flat-square&logo=react&logoColor=ffffff&labelColor=blue&color=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -15,11 +15,10 @@
 ### Entre em contato comigo:
 <a href="https://www.linkedin.com/in/cristiano-souza-santana-b3011a119/">LinkedIn</a>
 
-<center>
+
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSantan&hide=html&layout=compact&theme=buefy" />
 <!--         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=CristianoSantan&theme=buefy"/></td> --> 
-</table>
-</center> 
+
 
 
 
