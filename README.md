@@ -16,11 +16,8 @@
 <a href="https://www.linkedin.com/in/cristiano-souza-santana-b3011a119/">LinkedIn</a>
 
 <center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSantan&hide=html&layout=compact&theme=buefy" /></td>
-<!--         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=CristianoSantan&theme=buefy"/></td> -->
-    </tr>   
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSantan&hide=html&layout=compact&theme=buefy" />
+<!--         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=CristianoSantan&theme=buefy"/></td> --> 
 </table>
 </center> 
 
