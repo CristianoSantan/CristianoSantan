@@ -1,6 +1,6 @@
 
 
-<img style="border-radius:15px" src="./img/gifGitHub.gif"/>
+<img style="border-radius:15px!important;" src="./img/gifGitHub.gif"/>
 
 
 <!-- ### ✅ Atualmente aprendendo as seguintes stacks
