@@ -1,5 +1,4 @@
-### Olá! Bem vindo ! Eu sou o Cristiano 👋
----------------------------------------
+<img src="./img/github.png"/>
 ### ✅ Atualmente aprendendo as seguintes stacks
 ![React](https://img.shields.io/badge/-React-%23F7DF1C?style=flat-square&logo=react&logoColor=ffffff&labelColor=blue&color=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
