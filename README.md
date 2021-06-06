@@ -1,6 +1,6 @@
 
 
-<img style="border-radius:15px!important;" src="./img/gifGitHub.gif"/>
+<img src="https://cristianosantan.github.io/CristianoSantan/" alt=""/>
 
 
 <!-- ### ✅ Atualmente aprendendo as seguintes stacks
