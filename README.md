@@ -1,6 +1,6 @@
 
 
-<img src="https://cristianosantan.github.io/CristianoSantan/" alt=""/>
+<img src="./img/gifGitHub.gif" alt=""/>
 
 
 <!-- ### ✅ Atualmente aprendendo as seguintes stacks
