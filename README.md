@@ -1,6 +1,6 @@
 
 
-<img src="./img/githubPort.png"/>
+<img src="./img/gifGitHub.gif"/>
 
 
 <!-- ### ✅ Atualmente aprendendo as seguintes stacks
