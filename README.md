@@ -1,6 +1,6 @@
-
-
 <img src="./img/gifGitHub.gif" alt=""/>
+
+
 
 
 <!-- ### ✅ Atualmente aprendendo as seguintes stacks
@@ -15,11 +15,11 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) -->
 
-### Entre em contato comigo:
-<a href="https://www.linkedin.com/in/cristiano-souza-santana-b3011a119/">LinkedIn</a>
+<!-- ### Entre em contato comigo:
+<a href="https://www.linkedin.com/in/cristiano-souza-santana-b3011a119/">LinkedIn</a> -->
 
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSantan&hide=html&layout=compact&theme=buefy" />
+<!-- <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSantan&hide=html&layout=compact&theme=buefy" /> -->
 <!--         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=CristianoSantan&theme=buefy"/></td> --> 
 
 
